@@ -1,0 +1,45 @@
+.container {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.firstSection {
+    margin-top: 100px;
+}
+
+.content {
+    width: 35%;
+}
+
+.content h1 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 58px;
+}
+
+.content p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+}
+
+.content button {
+    width: 174px;
+    height: 56px;
+    background: #FDC212;
+    border-radius: 50px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+    border: none;
+    margin-top: 10px;
+    cursor: pointer;
+}

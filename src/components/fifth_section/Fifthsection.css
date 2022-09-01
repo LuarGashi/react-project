@@ -1,0 +1,54 @@
+.fifthRow {
+    margin-top: 100px;
+}
+
+.fifthRow .box {
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 25px;
+    width: 261px;
+    height: 306px;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.box a {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration: none;
+    color: black;
+    display: block;
+    margin-top: 20px;
+}
+
+
+.box h1 {
+    margin-top: 12px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+}
+
+.box img {
+    margin-top: 20px;
+}
+
+.box p {
+    margin-top: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+}

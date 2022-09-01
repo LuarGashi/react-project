@@ -1,0 +1,36 @@
+.eighthRow {
+    margin-top: 100px;
+    background: #FEE59A
+}
+
+.eighthRow .container h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 39px;
+}
+
+.eighthRow .container p {
+    margin-bottom: 5px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.footer_text {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color: #555454;
+}

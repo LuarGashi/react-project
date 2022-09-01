@@ -1,0 +1,25 @@
+.secondSection {
+    margin-top: 100px;
+}
+
+
+
+.content-secondRow {
+    width: 40%;
+}
+
+.content-secondRow h1 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 44px;
+}
+
+.content-secondRow p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+}

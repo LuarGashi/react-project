@@ -1,0 +1,38 @@
+.sixthRow {
+    margin-top: 100px;
+}
+
+.sixthRow-content {
+    width: 60%;
+}
+
+.sixthRow .sixthRow-content h1 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 44px;
+}
+
+.sixthRow .sixthRow-content p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.sixthRow-content button {
+    margin-top: 20px;
+    margin-right: 10px;
+    width: 174px;
+    height: 56px;
+    background: #FDC212;
+    border-radius: 50px;
+    border: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+}

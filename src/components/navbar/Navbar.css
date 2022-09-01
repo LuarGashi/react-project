@@ -1,0 +1,43 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.nav-bar {
+    height: 70px;
+    display: flex;
+    align-items: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    background: #F5F5F5;
+}
+
+.nav-bar .container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-bar ul {
+    display: flex;
+}
+
+.nav-bar ul li {
+    margin-left: 20px;
+    
+}
+
+.nav-bar ul button {
+    margin-left: 40px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    background: #FDC212;
+    border-radius: 50px;  
+    border: none;
+}
+

@@ -1,0 +1,23 @@
+.thirdRow {
+    margin-top: 100px;
+}
+
+.content-thirdRow {
+    width: 45%;
+}
+
+.content-thirdRow h1 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 44px;
+}
+
+.content-thirdRow p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+}
